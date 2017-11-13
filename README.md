@@ -1,2 +1,2 @@
 # Myblog
-> 这是master分支
+> as master Branch
